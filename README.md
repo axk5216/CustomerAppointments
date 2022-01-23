@@ -9,4 +9,4 @@ Also utilizes [User Time Zone]->EST conversions in order to populate time select
 
 When an appointment or customer is modified or created, modification occurs in the instantiated class object in addition to the MySQL database.
 
-Overall, this course required higher-level development practices as well as advanced Java knowledge, and many other constraints causing this to be a challenging project to complete as an undergraduate student.
+Overall, this course required higher-level development practices as well as advanced Java knowledge and many other constraints, causing this to be a challenging project to complete as an undergraduate student.
